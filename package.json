@@ -1,0 +1,15 @@
+{
+  "name": "returns",
+  "version": "1.0.0",
+  "description": "Always return value of object even if properties are undefined",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/Undeadlol1/returns.git"
+  },
+  "main": "returns.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mihail Paley (undeadlol1)",
+  "license": "ISC"
+}
