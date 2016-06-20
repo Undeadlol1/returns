@@ -1,6 +1,6 @@
 {
   "name": "returns",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Always return value of object even if properties are undefined",
   "repository" :
   { "type" : "git"
